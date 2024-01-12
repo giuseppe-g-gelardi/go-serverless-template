@@ -1,0 +1,11 @@
+{
+  "name": "go-serverless",
+  "version": "1.0.0",
+  "repository": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "vercel": "^31.2.2"
+  },
+  "scripts": {}
+}
